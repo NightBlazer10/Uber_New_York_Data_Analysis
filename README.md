@@ -49,4 +49,16 @@
 * Plotly (Interactive Data Visualisation)
 * Folium (Spatial Analaysis) 
 * Os
+## Data Visualisation
 
+![Active-Vehicles](https://user-images.githubusercontent.com/64770244/132623916-c4187d96-3f58-4b01-856b-b7a7ab1182b5.png)
+
+![Date-Rush](https://user-images.githubusercontent.com/64770244/132624019-b8a21aa7-2981-48b4-9247-993c76ae205c.png)
+
+![Hour-Rush](https://user-images.githubusercontent.com/64770244/132624041-4561e70e-76b8-465a-aff5-e64dc1d4b258.png)
+
+![Month-Rush](https://user-images.githubusercontent.com/64770244/132624058-049b1356-fba4-40df-aad3-fd894943a25e.png)
+
+![Trips](https://user-images.githubusercontent.com/64770244/132624113-f3d5a337-1539-4e93-b5e2-301ba4cad435.png)
+
+![Weekday-Rush](https://user-images.githubusercontent.com/64770244/132624143-33b88fa7-15b4-4b13-a41d-209e624a4ce5.png)
